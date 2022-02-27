@@ -1,6 +1,6 @@
 # Three.js Starter
 
-This Repository contains source code for quicling building a Three.js project compiled with Webpack <br>
+This Repository contains source code for quickly building a Three.js project compiled with Webpack <br>
 
 <h2>Steps to build an application</h2>
 <p>1. Requirements </p>
